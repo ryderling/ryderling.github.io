@@ -57,7 +57,7 @@
                 {%- endif -%}
               {%- else -%}
                 {% if author_is_self -%}
-                  and <<em><b>{{author.first}} {{author.last}}</b></em>
+                  and <em><b>{{author.first}} {{author.last}}</b></em>
                 {% else -%}
                   {%- if coauthor_url -%}
                     and <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
@@ -72,9 +72,9 @@
 
           <!-- Journal/Book title and date -->
           {% if entry.type == "article" -%}
-            {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+            {%- capture entrytype -%}<em><b>{{entry.journal}}</b></em>{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
-            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+            {%- capture entrytype -%}In <em><b>{{entry.booktitle}}</b></em> {%- endcapture -%}
           {%- endif -%}
           {%- if entry.month -%}
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
