@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a>Research Associate</a>. Institute of Software, Chinese Academy of Sciences.
+subtitle: <b>Research Associate</b>
 
 profile:
   align: right
@@ -13,14 +13,13 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am currently a research associate at Institute of Software, Chinese Academy of Sciences (ISCAS), working with Prof. Jingzheng Wu and Prof. Yanjun Wu.
-
+Xiang Ling is currently a `research associate` at Institute of Software, Chinese Academy of Sciences (ISCAS), working with Prof. Jingzheng Wu and Prof. Yanjun Wu.
 His primary research interests are `data-driven security`, `AI security`, `network/web security` and `software analysis`.
 He obtained his Ph.D degree in Computer Science from Zhejiang University and his Ph.D advisor is Prof. [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html) and Prof. Chunming Wu.
 During his Ph.D period, he also worked with Dr. [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/) and Dr. [Tengfei Ma](https://sites.google.com/site/matf0123/home) from IBM T. J. Watson Research Center, Prof. [Ting Wang](https://www.alpslab.ai/about/) from PSU, and Prof. [Bo Li](https://aisecure.github.io/) from UIUC.
 
 ### Highlights
-I am looking for high-motivated intern, graduate and under-graduate students to work with me. If interested, please drop me a message by email: lingxiang@iscas.ac.cn.
+I am looking for `high-motivated intern, graduate, under-graduate students and collaborator` to work and collaborate with me. If interested, please do not hesitate to drop me a message by email: lingxiang@iscas.ac.cn.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
