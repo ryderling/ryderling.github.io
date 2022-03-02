@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022-02-20 
+date: 2021-03-01 
 inline: true
 ---
 
-
-🎉 5
+🎉 Our proposal "AutoSpear: Towards Automatically Bypassing and Inspecting Web Application Firewalls" was accepted by Black Hat Asia 2022, Congrats to Zhenqing!

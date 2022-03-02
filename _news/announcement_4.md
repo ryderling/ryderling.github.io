@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022-03-01 
+date: 2021-12-04 
 inline: true
 ---
 
-
-🎉 444
+🎉 Our paper "MalGraph: Hierarchical Graph Neural Networks for Robust Windows Malware Detection" was accepted by INFOCOM 2022, Congratulation!

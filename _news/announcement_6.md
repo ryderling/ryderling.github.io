@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2021-04-01 
+date: 2021-12-04 
 inline: true
 ---
 
-
-🎉 6
+🎉 Our paper "EI-MTD: Moving Target Defense for Edge Intelligence against Adversarial Attacks" was accepted by TOPS, Congrats to Prof. Qian!
