@@ -139,6 +139,10 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
+          <!-- customize by xiang for ccf ranking flag -->
+          {%- if entry.flag %}
+            <abbr class="badge">{{entry.flag}}</abbr>
+          {%- endif %}
           </div>
 
           {% if entry.abstract -%}
