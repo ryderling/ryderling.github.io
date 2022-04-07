@@ -21,6 +21,8 @@ During his Ph.D period, he also worked with Dr. [Lingfei Wu](https://sites.googl
 <h2>Highlights</h2>
 🔔🔔🔔 I am looking for `self-motivated intern, graduate, under-graduate students and collaborators` to work and collaborate with me. If interested, please do not hesitate to drop me a message by email: lingxiang@iscas.ac.cn.
 
+🔔🔔🔔 团队长期招聘代码分析、系统安全、深度学习、模糊测试等方向`科研实习生`，不限本科生、研究生，可以远程，详见[实习僧招聘网站]()，感兴趣的联系lingxiang@iscas.ac.cn.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
