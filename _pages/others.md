@@ -17,6 +17,8 @@ nav: true
 
 - [How to look for a research idea / 如何在计算机应用领域寻找研究想法](https://zhuanlan.zhihu.com/p/341685279) by `Zhiyun Qian` from UC Riverside
 
+- [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://zhuanlan.zhihu.com/p/512528671) by `刘哲理` from 南开大学
+
 #### Useful Tools and Links
 
 - [Computer Security Conference Ranking and Statistic by `Guofei Gu`](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
