@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 👨‍💻<b>Research Associate</b>, 🏫ISCAS, 📧lingxiang@iscas.ac.cn
+subtitle: 👨‍💻<b>Research Associate</b>, 🏫ISCAS, 📧lingxiang@iscas.ac.cn; lingxiang@zju.edu.cn
 
 profile:
   align: right
