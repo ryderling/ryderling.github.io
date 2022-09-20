@@ -7,7 +7,7 @@ nav: true
 
 #### Academic Services
 
-- `PC Member`: DLG-KDD 2021, DLG-KDD 2020, DLG-KDD 2022, IEEE Big Data 2022 - Industry \& Goverment Track
+- `PC Member`: DLG-KDD 2021, DLG-KDD 2020, DLG-KDD 2022, IEEE Big Data 2022 - Industry & Goverment Track
 - `Journal Reviewer`: ACM Transactions on Knowledge Discovery from Data (TKDD), Neurocomputing, International Journal of Intelligent Systems (IJIS), KSII Transactions on Internet and Information Systems (TIIS)
 - `Conference Reviewer`: AAAI-2020, ICA3PP-2017, ICPADS-2017, ICPADS-2016
 
@@ -18,6 +18,9 @@ nav: true
 - [How to look for a research idea / 如何在计算机应用领域寻找研究想法](https://zhuanlan.zhihu.com/p/341685279) by `Zhiyun Qian` from UC Riverside
 
 - [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://zhuanlan.zhihu.com/p/512528671) by `刘哲理` from 南开大学
+
+- [科研与英文学术论文写作指南](https://mmlab-iie.github.io/course/) by `于静` from 中科院信工所
+
 
 #### Useful Tools and Links
 
