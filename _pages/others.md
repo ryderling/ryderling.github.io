@@ -7,8 +7,8 @@ nav: true
 
 #### Academic Services
 
-- `PC Member`: DLG-KDD 2021, DLG-KDD 2020, DLG-KDD 2022, IEEE Big Data 2022 - Industry & Goverment Track
-- `Journal Reviewer`: ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Network Science and Engineering (TNSE), Neurocomputing, International Journal of Intelligent Systems (IJIS), KSII Transactions on Internet and Information Systems (TIIS)
+- `PC Member`: DLG-KDD 2023, DLG-AAAI 2023, DLG-KDD 2022, IEEE Big Data 2022 (Industry & Goverment Track), DLG-KDD 2021, DLG-KDD 2020
+- `Journal Reviewer`: ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Network Science and Engineering (TNSE), Neurocomputing, International Journal of Intelligent Systems (IJIS), KSII Transactions on Internet and Information Systems (TIIS), Springer Cybersecurity
 - `Conference Reviewer`: AAAI-2020, ICA3PP-2017, ICPADS-2017, ICPADS-2016
 
 #### Recommended Readings
