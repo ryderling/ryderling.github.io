@@ -8,34 +8,33 @@ nav: true
 #### Academic Services
 
 > ##### PC Member
+>
+> didi
 > 
-> - IEEE Big Data 2024 (Industry & Goverment Track)
-> - DLG-KDD 2023
-> - DLG-AAAI 2023
-> - DLG-KDD 2022
-> - IEEE Big Data 2022 (Industry & Goverment Track),
-> - DLG-KDD 2021
-> - DLG-KDD 2020
+> didid
 {: .block-danger }
 
-##### Journal Reviewer
 
-- IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- IEEE Transactions on Information Forensics and Security (TIFS)
-- ACM Transactions on Privacy and Security (TOPS)
-- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-- ACM Transactions on Knowledge Discovery from Data (TKDD)
-- IEEE Transactions on Network Science and Engineering (TNSE)
-- Neurocomputing
-- International Journal of Intelligent Systems (IJIS)
-- KSII Transactions on Internet and Information Systems (TIIS)
-- Springer Cybersecurity
-- Journal of Computer Virology and Hacking Techniques
-- Computers in Biology and Medicine
-- Information Fusion
-- Soft Computing
-- IEEE ACCESS
-- IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+
+> ##### Journal Reviewer
+>
+> - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+> - IEEE Transactions on Information Forensics and Security (TIFS)
+> - ACM Transactions on Privacy and Security (TOPS)
+> - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+> - ACM Transactions on Knowledge Discovery from Data (TKDD)
+> - IEEE Transactions on Network Science and Engineering (TNSE)
+> - Neurocomputing
+> - International Journal of Intelligent Systems (IJIS)
+> - KSII Transactions on Internet and Information Systems (TIIS)
+> - Springer Cybersecurity
+> - Journal of Computer Virology and Hacking Techniques
+> - Computers in Biology and Medicine
+> - Information Fusion
+> - Soft Computing
+> - IEEE ACCESS
+> - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+
 
 ##### Conference Reviewer
 
