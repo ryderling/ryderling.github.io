@@ -8,40 +8,40 @@ nav: true
 #### Academic Services
 
 ##### PC Member
-> - IEEE Big Data 2024 (Industry & Goverment Track)
-> - DLG-KDD 2023
-> - DLG-AAAI 2023
-> - DLG-KDD 2022
-> - IEEE Big Data 2022 (Industry & Goverment Track),
-> - DLG-KDD 2021
-> - DLG-KDD 2020
+- IEEE Big Data 2024 (Industry & Goverment Track)
+- DLG-KDD 2023
+- DLG-AAAI 2023
+- DLG-KDD 2022
+- IEEE Big Data 2022 (Industry & Goverment Track)
+- DLG-KDD 2021
+- DLG-KDD 2020
 
 
 ##### Journal Reviewer
-> - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-> - IEEE Transactions on Information Forensics and Security (TIFS)
-> - ACM Transactions on Privacy and Security (TOPS)
-> - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-> - ACM Transactions on Knowledge Discovery from Data (TKDD)
-> - IEEE Transactions on Network Science and Engineering (TNSE)
-> - International Journal of Intelligent Systems (IJIS)
-> - KSII Transactions on Internet and Information Systems (TIIS)
-> - IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
-> - Neurocomputing
-> - Springer Cybersecurity
-> - Computers in Biology and Medicine
-> - Information Fusion
-> - Soft Computing
-> - IEEE ACCESS
-> - Journal of Computer Virology and Hacking Techniques
+- ##### IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- IEEE Transactions on Information Forensics and Security (TIFS)
+- ACM Transactions on Privacy and Security (TOPS)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- ACM Transactions on Knowledge Discovery from Data (TKDD)
+- IEEE Transactions on Network Science and Engineering (TNSE)
+- International Journal of Intelligent Systems (IJIS)
+- KSII Transactions on Internet and Information Systems (TIIS)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
+- Neurocomputing
+- Springer Cybersecurity
+- Computers in Biology and Medicine
+- Information Fusion
+- Soft Computing
+- IEEE ACCESS
+- Journal of Computer Virology and Hacking Techniques
 
 
 ##### Conference Reviewer
-> - SecureComm 2023
-> - AAAI 2020
-> - ICA3PP 2017
-> - ICPADS 2017
-> - ICPADS 2016
+- SecureComm 2023
+- AAAI 2020
+- ICA3PP 2017
+- ICPADS 2017
+- ICPADS 2016
 
 #### Recommended Readings
 
