@@ -7,19 +7,20 @@ nav: true
 
 #### Academic Services
 
-##### PC Member
-
-- IEEE Big Data 2024 (Industry & Goverment Track)
-- DLG-KDD 2023
-- DLG-AAAI 2023
-- DLG-KDD 2022
-- IEEE Big Data 2022 (Industry & Goverment Track),
-- DLG-KDD 2021
-- DLG-KDD 2020
+> ##### PC Member
+> 
+> - IEEE Big Data 2024 (Industry & Goverment Track)
+> - DLG-KDD 2023
+> - DLG-AAAI 2023
+> - DLG-KDD 2022
+> - IEEE Big Data 2022 (Industry & Goverment Track),
+> - DLG-KDD 2021
+> - DLG-KDD 2020
+{: .block-danger }
 
 ##### Journal Reviewer
 
-- IEEE Transactions on Knowledge and Data Engineering (`TKDE`)
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Information Forensics and Security (TIFS)
 - ACM Transactions on Privacy and Security (TOPS)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -34,14 +35,15 @@ nav: true
 - Information Fusion
 - Soft Computing
 - IEEE ACCESS
-- `IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)`
+- IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 
+##### Conference Reviewer
 
-
-
-# Conference Reviewer
-
-SecureComm 2023, AAAI 2020, ICA3PP 2017, ICPADS 2017, ICPADS 2016
+- SecureComm 2023
+- AAAI 2020
+- ICA3PP 2017
+- ICPADS 2017
+- ICPADS 2016
 
 #### Recommended Readings
 
