@@ -18,21 +18,21 @@ nav: true
 
 
 ##### `Journal Reviewer`
-- IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Information Forensics and Security (TIFS)
-- ACM Transactions on Privacy and Security (TOPS)
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - ACM Transactions on Knowledge Discovery from Data (TKDD)
+- ACM Transactions on Privacy and Security (TOPS)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - IEEE Transactions on Network Science and Engineering (TNSE)
 - International Journal of Intelligent Systems (IJIS)
 - KSII Transactions on Internet and Information Systems (TIIS)
-- IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI)
 - Neurocomputing
-- Springer Cybersecurity
-- Computers in Biology and Medicine
+- Cybersecurity
 - Information Fusion
 - Soft Computing
 - IEEE ACCESS
+- Computers in Biology and Medicine
 - Journal of Computer Virology and Hacking Techniques
 
 
