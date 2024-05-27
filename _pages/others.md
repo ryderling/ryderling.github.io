@@ -35,6 +35,7 @@ nav: true
 - IEEE ACCESS
 - Computers in Biology and Medicine
 - Journal of Computer Virology and Hacking Techniques
+- IET Information Securitys
 
 
 ##### `Conference Reviewer`
