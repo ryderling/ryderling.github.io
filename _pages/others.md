@@ -8,6 +8,7 @@ nav: true
 #### Academic Services
 
 ##### `PC Member`
+
 - IEEE Big Data 2024 (Industry & Goverment Track)
 - DLG-KDD 2023
 - DLG-AAAI 2023
@@ -16,8 +17,8 @@ nav: true
 - DLG-KDD 2021
 - DLG-KDD 2020
 
-
 ##### `Journal Reviewer`
+
 - IEEE Transactions on Information Forensics and Security (TIFS)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -37,6 +38,7 @@ nav: true
 
 
 ##### `Conference Reviewer`
+
 - SecureComm 2023
 - AAAI 2020
 - ICA3PP 2017
@@ -52,7 +54,6 @@ nav: true
 - [顶会论文的经验分享与心路历程：立志勇攀高峰 坚持追求卓越](https://zhuanlan.zhihu.com/p/512528671) by `刘哲理` from 南开大学
 
 - [科研与英文学术论文写作指南](https://mmlab-iie.github.io/course/) by `于静` from 中科院信工所
-
 
 #### Useful Tools and Links
 
