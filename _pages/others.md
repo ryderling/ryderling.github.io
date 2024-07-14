@@ -7,6 +7,12 @@ nav: true
 
 #### Academic Services
 
+##### Youth Editorial Board/青年编委
+
+- Cybersecurity
+- 信息安全学报
+
+
 ##### `PC Member`
 
 - IEEE Big Data 2024 (Industry & Goverment Track)
@@ -36,6 +42,7 @@ nav: true
 - Computers in Biology and Medicine
 - Journal of Computer Virology and Hacking Techniques
 - IET Information Securitys
+- 信息安全学报
 
 
 ##### `Conference Reviewer`
