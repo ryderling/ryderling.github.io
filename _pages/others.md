@@ -12,6 +12,7 @@ nav: true
 
 - Cybersecurity
 - 信息安全学报
+- 网络空间安全科学学报
 
 
 ##### `PC Member`
