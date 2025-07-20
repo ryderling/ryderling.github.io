@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Xiang Ling is currently an `associate professor` with the Institute of Software, Chinese Academy of Sciences (ISCAS) Beijing.
 His primary research interests are `software security`, `data-driven security`, `AI security`, and `network/web security`.
-He obtained his Ph.D degree in Computer Science from Zhejiang University and his Ph.D supervisor is Prof. [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html) and Prof. Chunming Wu.
+He obtained his Ph.D degree in Computer Science from Zhejiang University and his Ph.D supervisors are Prof. [Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html) and Prof. Chunming Wu.
 During his Ph.D period, he also worked with Dr. [Lingfei Wu](https://sites.google.com/a/email.wm.edu/teddy-lfwu/) and Dr. [Tengfei Ma](https://sites.google.com/site/matf0123/home) from IBM T. J. Watson Research Center, Prof. [Ting Wang](https://alps-lab.github.io/) from PSU, and Prof. [Bo Li](https://aisecure.github.io/) from UIUC.
 
 <h2>Highlights</h2>
