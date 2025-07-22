@@ -17,6 +17,7 @@ nav: true
 
 ##### `PC Member`
 
+- AAAI 2026
 - [EASE 2025 (Research Track)](https://conf.researchr.org/track/ease-2025/ease-2025-research-papers)
 - IEEE Big Data 2024 (Industry & Goverment Track)
 - DLG-KDD 2023
