@@ -5,6 +5,20 @@ permalink: /others/
 nav: true
 ---
 
+#### Academic Honors
+
+- 2025年 DataCon2025 大数据安全分析竞赛软件供应链安全赛道 冠军（指导教师）
+- 2025年 RISC-V 硬件漏洞挖掘比赛 HACK@CHES 冠军（指导教师）
+- 2025年 RISC-V 硬件漏洞挖掘比赛 HACK@DATE 冠军（指导教师）
+- 2025年 ACM SIGSOFT 杰出论文奖
+- 2024年 DataCon2024 大数据安全分析竞赛软件供应链安全赛道 冠军（指导教师）
+- 2024年 DataCon2024 大数据安全分析竞赛漏洞分析赛道 亚军（指导教师）
+- 2024年 DataCon2024 大数据安全分析竞赛AI安全赛道 季军（指导教师）
+- 2022年 DataCon2022 大数据安全分析竞赛软件安全赛道冠军（指导教师）
+- 2021年 DataCon2021 大数据安全分析赛道软件供应链及物联网安全赛道冠军（指导教师）
+- 2020年 DataCon2020 大数据安全分析竞赛网络黑产分析方向冠军
+
+
 #### Academic Services
 
 
@@ -13,11 +27,13 @@ nav: true
 - Cybersecurity
 - 信息安全学报
 - 网络空间安全科学学报
+- AI For Science
 
 
 ##### `PC Member`
 
-- EASE 2026 (Research Track)
+- [ICSME 2026 (Research Track)](https://conf.researchr.org/committee/icsme-2026/icsme-2026-papers-program-committee)
+- [EASE 2026 (Research Track)](https://conf.researchr.org/committee/ease-2026/ease-2026-research-papers-research-papers)
 - AAAI 2026
 - [EASE 2025 (Research Track)](https://conf.researchr.org/track/ease-2025/ease-2025-research-papers)
 - IEEE Big Data 2024 (Industry & Goverment Track)
